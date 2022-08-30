@@ -1,7 +1,7 @@
 # 💻 Projeto AstroMatch
 
 ### :dart: Objetivo do projeto
-A ideia é de usar a Poke Api como fonte de dados para o projeto. Ela é uma API pública, bastante utilizada como fonte de dados para aplicações focadas em aprendizado de programação. É também uma API particularmente comum em Cases de Processos Seletivos.
+ Um projeto com o objetivo de fazer um clone do Tinder: o Astromatch, com autilização da API, fornecida pela Labenu.
 
 ### :small_blue_diamond: Os requisitos do projeto são:
 - **Home:** 
